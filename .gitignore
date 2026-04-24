@@ -2,6 +2,9 @@
 data/
 data-24-4-bk/
 
+# Backup
+backup/
+
 # Python
 __pycache__/
 *.py[cod]
